@@ -6,4 +6,6 @@
     <string name="disabled">Disabled</string>
     <string name="enabled">Enabled</string>
     <string name="togglebutton">ToggleButton</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
 </resources>
